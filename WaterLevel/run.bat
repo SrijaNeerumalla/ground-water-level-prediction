@@ -1,2 +1,0 @@
-python WaterLevelPrediction.py
-pause
